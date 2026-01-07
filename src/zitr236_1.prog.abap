@@ -8,3 +8,4 @@ REPORT ZITR236_1.
 Write : / 'ABAP GIT Push 1'.
 Write : / 'ABAP GIT Push 2'.
 Write : / 'ABAP GIT Push 3'.
+Write : / 'ABAP GIT Push 7'.
