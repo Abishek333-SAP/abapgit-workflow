@@ -5,5 +5,5 @@
 *&---------------------------------------------------------------------*
 REPORT ZITR236_1.
 
-Write : / 'ABAP GIT Push'.
+Write : / 'ABAP GIT Push 1'.
 Write : / 'ABAP GIT Push 2'.
