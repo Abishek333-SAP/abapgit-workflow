@@ -17,7 +17,7 @@ CALL FUNCTION 'CU_READ_RGDIR'
     in_rgdir        = lt_rgdir.
 
 READ TABLE lt_rgdir INTO ls_rgdir INDEX 1.
-
+//check missing
 CALL FUNCTION 'PYXX_READ_PAYROLL_RESULT'
   EXPORTING
     clusterid = 'RX'
