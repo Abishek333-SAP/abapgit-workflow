@@ -34,3 +34,5 @@ WHERE bukrs = @p_bukrs.
     WRITE: 'Error: Company code not found'.
 
   ENDIF.
+
+/test
