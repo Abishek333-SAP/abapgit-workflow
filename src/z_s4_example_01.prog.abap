@@ -21,7 +21,7 @@ WHERE bukrs = @p_bukrs.
 
   IF sy-subrc = 0.
 
-    WRITE: /                                                           |Company Code   : { ls_company-bukrs }|,
+    WRITE: / |Company Code   : { ls_company-bukrs }|,
 
        / |Company Name   : { ls_company-butxt }|,
 
@@ -34,5 +34,3 @@ WHERE bukrs = @p_bukrs.
     WRITE: 'Error: Company code not found'.
 
   ENDIF.
-
-/test
