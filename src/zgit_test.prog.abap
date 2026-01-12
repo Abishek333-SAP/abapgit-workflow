@@ -5,4 +5,6 @@
 *&---------------------------------------------------------------------*
 REPORT ZGIT_TEST.
 
-Write : / 'test' DD/MM/YY.
+Write : / 'test from abapgit' DD/MM/YY.
+Write : / 'test from git hub' .
+
