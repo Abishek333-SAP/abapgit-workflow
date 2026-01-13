@@ -11,3 +11,8 @@ SELECT FROM kna1
 LOOP AT result INTO DATA(line).
   WRITE: / line-kunnr, line-name1, line-vkorg, line-vtweg, line-spart.
 ENDLOOP.
+
+*Error Log
+
+*// ?@5C\QError@  3 Program Z_ECC_CUSTOMER_SALES
+*//   Field "KUNNR" is unknown.
