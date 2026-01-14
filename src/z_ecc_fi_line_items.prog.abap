@@ -47,4 +47,4 @@ SELECT bkpf~bukrs
            gs_fi-hkont,
            gs_fi-dmbtr.
 ENDSELECT.
-//Check the testing
+*//Check the testing.
